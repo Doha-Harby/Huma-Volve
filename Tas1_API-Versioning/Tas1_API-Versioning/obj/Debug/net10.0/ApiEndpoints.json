@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Tas1_API_Versioning.Controllers.ProductsController",
+    "Method": "GetProductsV1",
+    "RelativePath": "api/v1/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tas1_API_Versioning.Controllers.ProductsController",
+    "Method": "GetProductsV2",
+    "RelativePath": "api/v2/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
